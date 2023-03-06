@@ -20,10 +20,10 @@
 </p>
 
 
-<h2 align="center"> Sistem Informasi Inventory Menggunakan Framework Laravel 5.8</h2>
+<h2 align="center"> Aplikasi Inventory Gudang Menggunakan Framework Laravel 5.8</h2>
 
 <h4>Cara Install : </h4>
-+ git clone https://github.com/revanapriyandi/laravel-inventory.git<br>
++ git clone https://github.com/irvanfalasifa/AIG.git<br>
 + composer install
 + php artisan migrate<br>
 + php artisan key:generate<br>

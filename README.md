@@ -15,9 +15,6 @@
   
 </p>
 
-<p align='center'>
-  To access admin page, add url /admin. Example http://localhost/school-website-master/admin
-</p>
 
 
 <h2 align="center"> Aplikasi Inventory Gudang Menggunakan Framework Laravel 5.8</h2>

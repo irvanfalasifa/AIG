@@ -5,7 +5,7 @@
 </h1>
 
 <p align='center'>
-  CAS contoh aplikasi sekolah with CodeIgniter
+  AIG contoh aplikasi inventory gudang with Laravel
 </p>
 
 <p align='center'>

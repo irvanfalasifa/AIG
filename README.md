@@ -30,13 +30,17 @@
 + php artisan serve || localhost:8000
 
 <h4>Akun : </h4>
-<h5><b>Admin</b></h5>
-<p>Email : admin@gmail.com</p>
-<p>Pass  : 123456</p>
 
-<h5><b>Staff</b></h5>
-<p>Email : staff@gmail.com</p>
-<p>Pass  : 123456</p>
+## Admin Account
+|    Username    | Password |
+|:--------------:|---------:|
+| admin@gmail.com | 123456  |
+
+## Staff Account
+|    Username    | Password |
+|:--------------:|---------:|
+| staff@gmail.com | 123456 |
+
 
 <h4>Package yang digunakan :</h4>
 + https://github.com/barryvdh/laravel-dompdf<br>
